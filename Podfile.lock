@@ -4,7 +4,7 @@ PODS:
     - AWSCore (= 2.30.4)
   - Keys (1.0.1)
   - SwiftGen (6.6.2)
-  - SwiftLint (0.50.3)
+  - SwiftLint (0.51.0)
   - Treetracker-Core (0.0.16):
     - AWSS3 (= 2.30.4)
 
@@ -38,7 +38,7 @@ SPEC CHECKSUMS:
   AWSS3: 1c5540cbe98d8ae5e24f44dcca25796ddba16058
   Keys: a576f4c9c1c641ca913a959a9c62ed3f215a8de9
   SwiftGen: 1366a7f71aeef49954ca5a63ba4bef6b0f24138c
-  SwiftLint: 77f7cb2b9bb81ab4a12fcc86448ba3f11afa50c6
+  SwiftLint: 1b7561918a19e23bfed960e40759086e70f4dba5
   Treetracker-Core: 52ec5c325a106a88cef4a1fe4fce6b8dfe2eafa8
 
 PODFILE CHECKSUM: 3af3d54d0acb4e211d8fb4ca2b64794d86fcc291
